@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pijat-terapi-arfokee.vercel.app/sitemap.xml
+Sitemap: https://pijatterapi.vercel.app/sitemap.xml
